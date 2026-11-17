@@ -21,6 +21,6 @@ public class Main{
         double average=(double) sum/ datapoints.length;
 
         System.out.println("\nThe sum of the random array dataPoints is: "+ sum);
-        System.out.print("The average of the radnom array dataPoints is: %2f/n");
+        System.out.print("The average of the random array dataPoints is: " + average);
     }
 }
